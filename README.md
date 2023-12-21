@@ -1,0 +1,1 @@
+Capturing tweets without API using snscrape. It is an enriched version of coding that you can access on any platform when you need instant data or to use in projects if you are a student. I would be happy if you improve and update it.
